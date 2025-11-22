@@ -131,7 +131,7 @@ p.caixa{
     padding: 30px 30px;
     background-color: var(--transparent-background);
     border-radius: 5px 5px;
-    width: 336px;
+    max-width: 336px;
 }
 
 footer{

@@ -5,7 +5,7 @@
 :root{
     --Title-color: whitesmoke;
     --Bg-Dark-color: #1b1b1b;
-    --transparent-background: #1b1b1b96;
+    --transparent-background: #1b1b1baf;
 }
 
 html, body{
@@ -21,14 +21,14 @@ html, body{
 
 header{
     padding: 10px 10px;
-    height: 150px;
+    height: 180px;
     background: #1b1b1b;
     box-shadow: 0px 1px 9px 0px #454535;
     line-height: 1rem;
 }
 
 header > h1{
-    font-size: 2rem;
+    font-size: 4vw;
     text-align: center;
     color: var(--Title-color);
     font-family: "Bordoni Moda", serif;
@@ -51,8 +51,7 @@ header > h1 > a:hover{
 
 header > h2{
     padding: 10px 10px;
-    font-size: 1rem;
-    display: block;
+    font-size: 2vw;
     text-align: center;
     font-weight: 100;
     font-style: normal;

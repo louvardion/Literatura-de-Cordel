@@ -28,7 +28,7 @@ header{
 }
 
 header > h1{
-    font-size: 4vw;
+    font-size: 3rem;
     text-align: center;
     color: var(--Title-color);
     font-family: "Bordoni Moda", serif;
@@ -51,7 +51,7 @@ header > h1 > a:hover{
 
 header > h2{
     padding: 10px 10px;
-    font-size: 2vw;
+    font-size: 1rem;
     text-align: center;
     font-weight: 100;
     font-style: normal;
